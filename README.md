@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Computer Science student in T.I.P. - Manila
 ---------------------------------------------
 
-I am curious about leveraging computers to make a useful applications..
+I am curious about leveraging computers to make a useful applications.
 
 * 🌍  I'm based in Manila, Philippines
 * 🖥️  See my portfolio at [marcusoliver.netlify.app](http://marcusoliver.netlify.app)
